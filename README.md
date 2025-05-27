@@ -3,7 +3,7 @@
 > *"Success is not final, failure is not fatal: it is the courage to continue that counts."* — Winston Churchill
 
 Welcome to my curated repository of certifications!  
-Each certification reflects my dedication to lifelong learning and my pursuit of excellence in the fields of Data Science, Machine Learning, and Software Development. 💡📊
+Each certification reflects my dedication to lifelong learning and my pursuit of excellence in the fields of Artificial Intelligence,Data Science, Machine Learning, and Software Development. 💡📊
 
 ---
 
