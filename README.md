@@ -34,13 +34,13 @@ Each certification reflects my dedication to lifelong learning and my pursuit of
 ### 📘 Foundational Courses
 
 - 🌐 [Introduction to Data Science – IBM](./4.Introduction%20to%20Data%20Science-IBM.pdf)
-- 📘 [The Data Science Method – IBM](./5.IBM%20-%20The%20Data%20Science%20Method.pdf)
+- 📘 [The Data Science Method – IBM](./5.IBM%20-The%20Data%20Science%20Method.pdf)
 
 ---
 
 ### 💻 Software Development & Programming
 
-- ☕ [Object Oriented System Development using UML, Java & Patterns – NPTEL](./14.(NPTEL)Object%20Oriented%20System%20Development%20Using%20UML,%20Java%20and%20Patterns.pdf)
+- ☕ [Object Oriented System Development using UML, Java & Patterns – NPTEL](./13.(NPTEL)Object%20Oriented%20System%20Development%20Using%20UML%2C%20Java%20And%20Patterns-IIT%20Kharagpur.pdf)
 
 ---
 
@@ -60,9 +60,8 @@ This repository is a testament to my learning journey and a stepping stone towar
 
 ### 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
-- 📧 YOUR_EMAIL@example.com  
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/Nagendrareddy777)  
+- 📧 nagendrareddybadduri@gmail.com
 ---
 
-**Thank you for visiting!** 🚀 Let's build the future with knowledge and code.
+**Thank you for visiting!** 🚀 Let's build the future with knowledge and AI.
