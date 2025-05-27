@@ -22,7 +22,7 @@ Each certification reflects my dedication to lifelong learning and my pursuit of
 ### 📊 Data Science & Analysis
 
 - 🐍 [Python Basics for Data Science – IBM](./7.Python%20Basics%20for%20Data%20Science-%20IBM.pdf)
-- 🧪 [Python for Data Science Project – IBM](./8.Python%20for%20Data%20Science%20project-%20IBM.pdf)
+- 🧪 [Python for Data Science Project – IBM](./8.Python%20for%20DataScience%20project-IBM.pdf)
 - 📈 [Analysing Data with Python – IBM](./9.Analysing%20Data%20with%20Python-IBM.pdf)
 - 🗃️ [Data Science Tools – IBM](./6.Data%20Science%20Tools-IBM.pdf)
 - 🧮 [SQL for Data Science – IBM](./10.SQL%20for%20Data%20Science-IBM.pdf)
