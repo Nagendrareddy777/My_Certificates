@@ -26,7 +26,7 @@ Each certification reflects my dedication to lifelong learning and my pursuit of
 - 📈 [Analysing Data with Python – IBM](./9.Analysing%20Data%20with%20Python-IBM.pdf)
 - 🗃️ [Data Science Tools – IBM](./6.Data%20Science%20Tools-IBM.pdf)
 - 🧮 [SQL for Data Science – IBM](./10.SQL%20for%20Data%20Science-IBM.pdf)
-- 🔍 [Data Visualization – Kaggle](./2.Data%20Visualization-Kaggle.pdf)
+- 🔍 [Data Visualization – Kaggle](./2.Data%20Visualization%20-Kaggle.pdf)
 - 📊 [Pandas – Kaggle](./1.Pandas-%20Kaggle.pdf)
 
 ---
