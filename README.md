@@ -12,9 +12,9 @@ Each certification reflects my dedication to lifelong learning and my pursuit of
 ### 🔹 Machine Learning & AI
 
 - 📘 [Supervised Learning Algorithms - Stanford](./0.Supervised%20Learning%20Algorithms-Stanford.pdf)
-- 🎯 [Complete ML & DS Program – GeeksforGeeks](./3.Complete%20ML%20&%20DS%20Program%20–%20GeeksforGeeks.pdf)
-- 🧠 [Deep Learning – NPTEL, IIT Ropar](./13.(NPTEL)Deep Learning-IIT Ropar.pdf)
-- 📚 [Building LLMs From Scratch – Vizuara AI Lab](./15.Building%20LLM%27s%20From%20Scratch%20-%20Vizuara%20AI%20Lab.pdf)
+- 🎯 [Complete ML & DS Program – GeeksforGeeks](./3.Complete%20ML%20&%20DS%20Program%20–GeeksforGeeks.pdf)
+- 🧠 [Deep Learning – NPTEL, IIT Ropar](./13.(NPTEL)Deep%20Learning%20-%20IIT%20Ropar.pdf)
+- 📚 [Building LLMs From Scratch – Vizuara AI Lab](./15.Building%20LLM%27s%20From%20Scratch%20-%20Vizuara%20AI%20Lab%20.pdf)
 - 🤖 [7 DAY ML Workshop – CDPC](./12.7%20DAY%20ML%20Work%20Shop%20-%20CDPC.pdf)
 
 ---
